@@ -79,3 +79,24 @@ a:hover {
   margin-top: 63px;
   font-size: 14px;
 }
+/*Services*/
+#services{
+	background-color: #F17C72;
+	text-align: center;
+	color: #fff;
+	padding: 70px;
+}
+#services.flex-container{
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+.box-services{
+	font-size: 1.2em;
+	font-weight: bold;
+}
+/*Footer*/
+#footer.flex-container{
+	justify-content: center;
+	color: white;
+	background-color: #373B47;
+}
